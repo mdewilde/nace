@@ -5,6 +5,9 @@
 	<groupId>be.ceau</groupId>
 	<artifactId>nace</artifactId>
 	<version>1.0.0</version>
+	<name>Nace Rev.2</name>
+	<description>A Java representation of the NACE Rev.2 classification system</description>
+	<url>https://github.com/mdewilde/nace</url>
 	<developers>
 		<developer>
 			<name>Marceau Dewilde</name>
